@@ -1,4 +1,4 @@
-package com.user.service.dao;
+package com.user.app.dao;
 
 public interface UserDao {
 

@@ -1,4 +1,4 @@
-package com.user.service.queries;
+package com.user.app.queries;
 
 public class UserServiceQueries {
 

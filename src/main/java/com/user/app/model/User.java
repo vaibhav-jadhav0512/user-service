@@ -1,4 +1,4 @@
-package com.user.service.model;
+package com.user.app.model;
 
 public class User {
 	
